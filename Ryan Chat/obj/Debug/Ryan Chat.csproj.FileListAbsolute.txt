@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\bin\Debug\Ryan Chat.exe.config
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\bin\Debug\Ryan Chat.exe
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\bin\Debug\Ryan Chat.pdb
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\obj\Debug\Ryan Chat.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\obj\Debug\Ryan Chat.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\obj\Debug\Ryan Chat.exe
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\obj\Debug\Ryan Chat.pdb
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\Desktop\Coding\C#\Ryan Chat\Ryan Chat\obj\Debug\Ryan Chat.csproj.CopyComplete
