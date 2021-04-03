@@ -12,5 +12,5 @@ Ryan Chat is a simple, terminal based [Matrix](https://matrix.org) made in C#
 
 ### NOTE: Since it is in the very early stages of devolpment, there is no compiled versions yet!
 
-##APIs Used:  
+## APIs Used:  
 [Newtonsoft.JSON](https://www.newtonsoft.com/json)
