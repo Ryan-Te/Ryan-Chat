@@ -14,6 +14,8 @@ Ryan Chat is a simple, terminal based [Matrix](https://matrix.org) made in C#
 -Let you type messages longer than the width of the terminal  
 -Have typing recipts  
 
+NOTE: repo not updated yet  
+
 ### NOTE: Since it is in the very early stages of devolpment, there is no compiled versions yet!
 
 ## APIs Used:  
