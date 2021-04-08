@@ -6,9 +6,9 @@ Ryan Chat is a simple, terminal based [Matrix](https://matrix.org) made in C#
 -Can view messages in public servers  
 -Send messsages  
 -switch between servers on the same "session"  
+-Handle joins/leaves correctly
 
-# Currently Planned Features  
--Handle joins/leaves correctly  
+# Currently Planned Features    
 -Normal user login  
 -Let you type messages longer than the width of the terminal  
 -Have typing recipts  
